@@ -1,5 +1,5 @@
-### Michael
-Alt-H1 Test
-## New Heading 
-__ENGLAND__
-~~Croatia~~
+
+# __Russia World Cup__
+## Semi Final Outcome
+__ENGLAND__ _2_
+**~~CROATIA~~** 1
